@@ -1,0 +1,8 @@
+html, body {
+    height: 100%;
+}
+
+
+.border-black {
+    border: 1px solid black;
+}
